@@ -161,6 +161,17 @@ main {
   width: 100%;
 }
 
+.video-time {
+  background-color: rgb(0,0,0);
+  color: white;
+  display: block;
+  font-size: 12px;
+  padding: 3px;
+  font-weight: 500;
+  width: 38px;
+  position: absolute;
+}
+
 .video__info {
   margin-top: 12px;
 }
